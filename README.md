@@ -11,8 +11,6 @@ On the AI side, measured benchmark data show a long reasoning answer uses ~17× 
 
 ![Figure 1](figures/phantom_load_timeline.png)
 
-Midterm data-visualization assignment, Energy Economics, Johns Hopkins SAIS (fall 2026). Two-minute voiceover script: [`voiceover.md`](voiceover.md).
-
 ## Repository contents
 
 | Path | What it is |
@@ -25,11 +23,9 @@ Midterm data-visualization assignment, Energy Economics, Johns Hopkins SAIS (fal
 | `data/ercot_monthly_demand.csv` | Monthly peak and average demand computed from the hourly data |
 | `raw/ercot_hourly/` | Original ERCOT Hourly Load Data Archive files, 2023 to Sep 2026 (`manifest.json` has SHA-256 checksums) |
 | `raw/ml_energy/` | Original ML.ENERGY Leaderboard v3 benchmark files for Qwen3 8B/14B/32B (`manifest.json` has source URLs and checksums) |
-| `voiceover.md` | Two-minute script |
 
 ### `phantom_load_raw_data.csv` columns
 `row_id, section, item, date, date_precision, hour_ending, dst_repeat_hour, value, unit, bench_*, zone_*_MW, source, url`
-
 - `date` is always `YYYY-MM-DD`. `date_precision` says whether it refers to an hour, day, month or quarter. Month-only values use the 1st of the month; quarters use the quarter's first day.
 - Hourly rows: `hour_ending` is 1–24 (ERCOT convention, Central Prevailing Time). `dst_repeat_hour` = `yes` marks the repeated hour when daylight saving time ends. `value` is the ERCOT system total and `zone_*_MW` are the eight weather zones.
 - Benchmark rows: `value` is GPU energy per response (J). The `bench_*` columns hold model, task, GPU, batch size, energy per token, output length, power, throughput and latency.

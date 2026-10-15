@@ -1,0 +1,135 @@
+[
+  {
+    "file": "Qwen__Qwen3-8B__gpqa.json",
+    "url": "https://raw.githubusercontent.com/ml-energy/leaderboard/2bdd0070186956688e1f842dc28077980fe64013/public/data/models/Qwen__Qwen3-8B__gpqa.json",
+    "sha256": "05244f6ebf5eea3b786c505f4da2530e1641bec2ef88accfb71819f65d188a93",
+    "retrieved": "2026-10-15",
+    "bytes": 26361
+  },
+  {
+    "file": "Qwen__Qwen3-8B__lm-arena-chat.json",
+    "url": "https://raw.githubusercontent.com/ml-energy/leaderboard/2bdd0070186956688e1f842dc28077980fe64013/public/data/models/Qwen__Qwen3-8B__lm-arena-chat.json",
+    "sha256": "234266553646cebaee79af62ec1114b94c2473b15a92f8136f20a9c0ee6ddcbb",
+    "retrieved": "2026-10-15",
+    "bytes": 50014
+  },
+  {
+    "file": "Qwen__Qwen3-14B__gpqa.json",
+    "url": "https://raw.githubusercontent.com/ml-energy/leaderboard/2bdd0070186956688e1f842dc28077980fe64013/public/data/models/Qwen__Qwen3-14B__gpqa.json",
+    "sha256": "2205fbb03251af3120b5b99e5c4ae0d5062f6a6c0540e18d45a767adf3f085ea",
+    "retrieved": "2026-10-15",
+    "bytes": 24516
+  },
+  {
+    "file": "Qwen__Qwen3-14B__lm-arena-chat.json",
+    "url": "https://raw.githubusercontent.com/ml-energy/leaderboard/2bdd0070186956688e1f842dc28077980fe64013/public/data/models/Qwen__Qwen3-14B__lm-arena-chat.json",
+    "sha256": "a257c7c10b397d2271ce7c88ce39f2444bd987fbe95c6554d4049a6a3b7b09b8",
+    "retrieved": "2026-10-15",
+    "bytes": 44896
+  },
+  {
+    "file": "Qwen__Qwen3-32B__gpqa.json",
+    "url": "https://raw.githubusercontent.com/ml-energy/leaderboard/2bdd0070186956688e1f842dc28077980fe64013/public/data/models/Qwen__Qwen3-32B__gpqa.json",
+    "sha256": "8b94650154d0971b12e768f03e30ca12f0b9f31799adaabebc595fdb0cc3f3cd",
+    "retrieved": "2026-10-15",
+    "bytes": 25498
+  },
+  {
+    "file": "Qwen__Qwen3-32B__lm-arena-chat.json",
+    "url": "https://raw.githubusercontent.com/ml-energy/leaderboard/2bdd0070186956688e1f842dc28077980fe64013/public/data/models/Qwen__Qwen3-32B__lm-arena-chat.json",
+    "sha256": "cc2ee97966d05837c5cf59c21e4d4f5825b5b938a71ab62d0a2a6038382e9eb1",
+    "retrieved": "2026-10-15",
+    "bytes": 57595
+  },
+  {
+    "file": "build_data.py",
+    "url": "https://raw.githubusercontent.com/ml-energy/leaderboard/2bdd0070186956688e1f842dc28077980fe64013/scripts/build_data.py",
+    "sha256": "423122e7d8acf95ec10c31141430dbd4e80ab25657972fdd1403e5d6df2fd106",
+    "retrieved": "2026-10-15",
+    "bytes": 18076
+  },
+  {
+    "file": "model_throughput_DB.csv",
+    "url": "https://raw.githubusercontent.com/microsoft/aienergy_simulation/cc9dc82a49f5d6cf64615c59d264aa34912f045e/model_throughput_DB.csv",
+    "sha256": "e691f320d89603d8af24f6e1ea2ed3f4da54cbe02878f1ef82be61a03dbec7c7",
+    "retrieved": "2026-10-15",
+    "bytes": 3406
+  },
+  {
+    "file": "simulation_long_queries.py",
+    "url": "https://raw.githubusercontent.com/microsoft/aienergy_simulation/cc9dc82a49f5d6cf64615c59d264aa34912f045e/simulation_long_queries.py",
+    "sha256": "305665afeaf568b016ad637b609697d5234d243423cecff1c72525d13d1b3c2d",
+    "retrieved": "2026-10-15",
+    "bytes": 33435
+  },
+  {
+    "file": "simulation_traditional_queries.py",
+    "url": "https://raw.githubusercontent.com/microsoft/aienergy_simulation/cc9dc82a49f5d6cf64615c59d264aa34912f045e/simulation_traditional_queries.py",
+    "sha256": "4c63f2c08c1a93791116d158a5a9f35a55dfc97cd9b9d6a1cf3720a1210cddd1",
+    "retrieved": "2026-10-15",
+    "bytes": 36599
+  },
+  {
+    "file": "README.md",
+    "url": "https://raw.githubusercontent.com/microsoft/aienergy_simulation/cc9dc82a49f5d6cf64615c59d264aa34912f045e/README.md",
+    "sha256": "364401eb145c077b0c82704a637f3d8ce50c5e46edacfa0fb33e6fa85a8cca4e",
+    "retrieved": "2026-10-15",
+    "bytes": 4063
+  },
+  {
+    "file": "LICENSE",
+    "url": "https://raw.githubusercontent.com/microsoft/aienergy_simulation/cc9dc82a49f5d6cf64615c59d264aa34912f045e/LICENSE",
+    "sha256": "a89c349ecfdad9b518393562f5fe60072cf55cd6460cab7fd30dcd70770c69d9",
+    "retrieved": "2026-10-15",
+    "bytes": 1071
+  },
+  {
+    "file": "benchmark_overview.md",
+    "url": "https://raw.githubusercontent.com/ml-energy/benchmark/master/docs/overview.md",
+    "sha256": "7ccc8d95318dbfe7c7a9e0fc76ca826445a6696835eff8bb886a04fc0b844dcc",
+    "retrieved": "2026-10-15",
+    "bytes": 1884
+  },
+  {
+    "file": "gpqa_extra_body.json",
+    "url": "https://raw.githubusercontent.com/ml-energy/benchmark/c1d6557fbf7c7c495749b0fcf649f71774eabde9/configs/vllm/gpqa/Qwen/Qwen3-32B/B200/extra_body.json",
+    "sha256": "3830f9521ee33a797d99a141046b0c48c7a321d4c43510e861640121ade22ab8",
+    "retrieved": "2026-10-15",
+    "bytes": 64
+  },
+  {
+    "file": "gpqa_monolithic.config.yaml",
+    "url": "https://raw.githubusercontent.com/ml-energy/benchmark/c1d6557fbf7c7c495749b0fcf649f71774eabde9/configs/vllm/gpqa/Qwen/Qwen3-32B/B200/monolithic.config.yaml",
+    "sha256": "3b7f2538eeaa39bfe509550864b96e28f33296759cdbe8696744efe594a65815",
+    "retrieved": "2026-10-15",
+    "bytes": 157
+  },
+  {
+    "file": "gpqa_sweeps.yaml",
+    "url": "https://raw.githubusercontent.com/ml-energy/benchmark/c1d6557fbf7c7c495749b0fcf649f71774eabde9/configs/vllm/gpqa/Qwen/Qwen3-32B/B200/sweeps.yaml",
+    "sha256": "120913f7bd1bf01a1a200120c8843861d7df2227e3e2364b9377de5156b9c6a1",
+    "retrieved": "2026-10-15",
+    "bytes": 128
+  },
+  {
+    "file": "lm-arena-chat_extra_body.json",
+    "url": "https://raw.githubusercontent.com/ml-energy/benchmark/c1d6557fbf7c7c495749b0fcf649f71774eabde9/configs/vllm/lm-arena-chat/Qwen/Qwen3-32B/B200/extra_body.json",
+    "sha256": "d0884f217d7d3661f19a7596c4aafdaed3ee34e259fa57b93e386c714da740b0",
+    "retrieved": "2026-10-15",
+    "bytes": 65
+  },
+  {
+    "file": "lm-arena-chat_monolithic.config.yaml",
+    "url": "https://raw.githubusercontent.com/ml-energy/benchmark/c1d6557fbf7c7c495749b0fcf649f71774eabde9/configs/vllm/lm-arena-chat/Qwen/Qwen3-32B/B200/monolithic.config.yaml",
+    "sha256": "ad4dd365e92a7131fc5042a3e4633ece1b69b7e3c411fb8f4bbe541625c90648",
+    "retrieved": "2026-10-15",
+    "bytes": 133
+  },
+  {
+    "file": "lm-arena-chat_sweeps.yaml",
+    "url": "https://raw.githubusercontent.com/ml-energy/benchmark/c1d6557fbf7c7c495749b0fcf649f71774eabde9/configs/vllm/lm-arena-chat/Qwen/Qwen3-32B/B200/sweeps.yaml",
+    "sha256": "6b9c7e4fdabfdb9790620b824397734b0828ef01301f5063da594fde23427c3f",
+    "retrieved": "2026-10-15",
+    "bytes": 147
+  }
+]

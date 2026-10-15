@@ -1,0 +1,26 @@
+[
+ {
+  "file": "Native_Load_2023.xlsx",
+  "url": "https://www.ercot.com/gridinfo/load/load_hist/index.html",
+  "sha256": "92ab9d5f74fc79df4cca2bb07f1875712448dc930eddf57500eda958b40bef44",
+  "bytes": 1103792
+ },
+ {
+  "file": "Native_Load_2024.xlsx",
+  "url": "https://www.ercot.com/gridinfo/load/load_hist/index.html",
+  "sha256": "c32f4dd16c6b9efe92e356ccc28fe195d62527b3746a00ec277d635f09edb639",
+  "bytes": 1101260
+ },
+ {
+  "file": "Native_Load_2025.xlsx",
+  "url": "https://www.ercot.com/gridinfo/load/load_hist/index.html",
+  "sha256": "23664b0cddb047692f6cac26a4300e987c6309795395d394bf2dc223f37b53aa",
+  "bytes": 1098164
+ },
+ {
+  "file": "Native_Load_2026.xlsx",
+  "url": "https://www.ercot.com/gridinfo/load/load_hist/index.html",
+  "sha256": "a1a7320de8209371a8ce9df0a385eab8cae21dc8f609874882e8627be15ca6f7",
+  "bytes": 826400
+ }
+]
